@@ -1,0 +1,16 @@
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\bin\Debug\DoomAshKA.exe.config
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\bin\Debug\DoomAshKA.exe
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\bin\Debug\DoomAshKA.pdb
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\obj\Debug\DoomAshKA.csproj.AssemblyReference.cache
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\obj\Debug\DoomAshKA.csproj.SuggestedBindingRedirects.cache
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\obj\Debug\DoomAshKA.csproj.CoreCompileInputs.cache
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\obj\Debug\DoomAshKA.exe
+C:\Users\79131\source\repos\DoomAshKA\DoomAshKA\obj\Debug\DoomAshKA.pdb
+D:\VisualRepos\TheThirdBan\DoomAshKA\bin\Debug\DoomAshKA.exe.config
+D:\VisualRepos\TheThirdBan\DoomAshKA\bin\Debug\DoomAshKA.exe
+D:\VisualRepos\TheThirdBan\DoomAshKA\bin\Debug\DoomAshKA.pdb
+D:\VisualRepos\TheThirdBan\DoomAshKA\obj\Debug\DoomAshKA.csproj.AssemblyReference.cache
+D:\VisualRepos\TheThirdBan\DoomAshKA\obj\Debug\DoomAshKA.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepos\TheThirdBan\DoomAshKA\obj\Debug\DoomAshKA.csproj.CoreCompileInputs.cache
+D:\VisualRepos\TheThirdBan\DoomAshKA\obj\Debug\DoomAshKA.exe
+D:\VisualRepos\TheThirdBan\DoomAshKA\obj\Debug\DoomAshKA.pdb

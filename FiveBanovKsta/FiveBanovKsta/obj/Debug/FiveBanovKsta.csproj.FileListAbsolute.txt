@@ -1,0 +1,8 @@
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\bin\Debug\FiveBanovKsta.exe.config
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\bin\Debug\FiveBanovKsta.exe
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\bin\Debug\FiveBanovKsta.pdb
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\obj\Debug\FiveBanovKsta.csproj.AssemblyReference.cache
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\obj\Debug\FiveBanovKsta.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\obj\Debug\FiveBanovKsta.csproj.CoreCompileInputs.cache
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\obj\Debug\FiveBanovKsta.exe
+D:\VisualRepos\FiveBanovKsta\FiveBanovKsta\obj\Debug\FiveBanovKsta.pdb

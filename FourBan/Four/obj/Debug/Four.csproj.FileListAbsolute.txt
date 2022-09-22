@@ -1,0 +1,8 @@
+D:\VisualRepos\FourBan\Four\obj\Debug\Four.csproj.AssemblyReference.cache
+D:\VisualRepos\FourBan\Four\obj\Debug\Four.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepos\FourBan\Four\obj\Debug\Four.csproj.CoreCompileInputs.cache
+D:\VisualRepos\FourBan\Four\bin\Debug\Four.exe.config
+D:\VisualRepos\FourBan\Four\bin\Debug\Four.exe
+D:\VisualRepos\FourBan\Four\bin\Debug\Four.pdb
+D:\VisualRepos\FourBan\Four\obj\Debug\Four.exe
+D:\VisualRepos\FourBan\Four\obj\Debug\Four.pdb
