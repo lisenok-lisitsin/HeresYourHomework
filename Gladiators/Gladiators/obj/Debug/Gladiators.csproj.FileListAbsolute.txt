@@ -1,0 +1,7 @@
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\bin\Debug\Gladiators.exe.config
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\bin\Debug\Gladiators.exe
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\bin\Debug\Gladiators.pdb
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\obj\Debug\Gladiators.csprojAssemblyReference.cache
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\obj\Debug\Gladiators.csproj.CoreCompileInputs.cache
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\obj\Debug\Gladiators.exe
+C:\Users\stud\213_Alekseev\Gladiators\Gladiators\obj\Debug\Gladiators.pdb
