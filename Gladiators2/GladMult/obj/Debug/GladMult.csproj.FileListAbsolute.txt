@@ -6,3 +6,11 @@ D:\VisualRepos\Gladiators2\GladMult\GladMult\bin\Debug\GladMult.exe
 D:\VisualRepos\Gladiators2\GladMult\GladMult\bin\Debug\GladMult.pdb
 D:\VisualRepos\Gladiators2\GladMult\GladMult\obj\Debug\GladMult.exe
 D:\VisualRepos\Gladiators2\GladMult\GladMult\obj\Debug\GladMult.pdb
+D:\VisualRepos\Gladiators2\GladMult\bin\Debug\GladMult.exe.config
+D:\VisualRepos\Gladiators2\GladMult\bin\Debug\GladMult.exe
+D:\VisualRepos\Gladiators2\GladMult\bin\Debug\GladMult.pdb
+D:\VisualRepos\Gladiators2\GladMult\obj\Debug\GladMult.csproj.AssemblyReference.cache
+D:\VisualRepos\Gladiators2\GladMult\obj\Debug\GladMult.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepos\Gladiators2\GladMult\obj\Debug\GladMult.csproj.CoreCompileInputs.cache
+D:\VisualRepos\Gladiators2\GladMult\obj\Debug\GladMult.exe
+D:\VisualRepos\Gladiators2\GladMult\obj\Debug\GladMult.pdb
