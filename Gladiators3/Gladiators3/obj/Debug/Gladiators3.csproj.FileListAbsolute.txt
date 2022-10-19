@@ -6,3 +6,11 @@ D:\VisualRepos\Gladiators3\Gladiators3\Gladiators3\bin\Debug\Gladiators3.exe
 D:\VisualRepos\Gladiators3\Gladiators3\Gladiators3\bin\Debug\Gladiators3.pdb
 D:\VisualRepos\Gladiators3\Gladiators3\Gladiators3\obj\Debug\Gladiators3.exe
 D:\VisualRepos\Gladiators3\Gladiators3\Gladiators3\obj\Debug\Gladiators3.pdb
+D:\VisualRepos\Gladiators3\Gladiators3\bin\Debug\Gladiators3.exe.config
+D:\VisualRepos\Gladiators3\Gladiators3\bin\Debug\Gladiators3.exe
+D:\VisualRepos\Gladiators3\Gladiators3\bin\Debug\Gladiators3.pdb
+D:\VisualRepos\Gladiators3\Gladiators3\obj\Debug\Gladiators3.csproj.AssemblyReference.cache
+D:\VisualRepos\Gladiators3\Gladiators3\obj\Debug\Gladiators3.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepos\Gladiators3\Gladiators3\obj\Debug\Gladiators3.csproj.CoreCompileInputs.cache
+D:\VisualRepos\Gladiators3\Gladiators3\obj\Debug\Gladiators3.exe
+D:\VisualRepos\Gladiators3\Gladiators3\obj\Debug\Gladiators3.pdb
