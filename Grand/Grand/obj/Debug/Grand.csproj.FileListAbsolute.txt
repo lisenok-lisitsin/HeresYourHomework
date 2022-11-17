@@ -1,0 +1,10 @@
+C:\Users\stud\213_Alekseev\Grand\Grand\bin\Debug\Grand.exe.config
+C:\Users\stud\213_Alekseev\Grand\Grand\bin\Debug\Grand.exe
+C:\Users\stud\213_Alekseev\Grand\Grand\bin\Debug\Grand.pdb
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.csprojAssemblyReference.cache
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.SuperForm.resources
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.Properties.Resources.resources
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.csproj.GenerateResource.cache
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.csproj.CoreCompileInputs.cache
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.exe
+C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.pdb
