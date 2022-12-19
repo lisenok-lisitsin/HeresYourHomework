@@ -8,3 +8,14 @@ C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.csproj.GenerateResource.c
 C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.csproj.CoreCompileInputs.cache
 C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.exe
 C:\Users\stud\213_Alekseev\Grand\Grand\obj\Debug\Grand.pdb
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\bin\Debug\Grand.exe.config
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\bin\Debug\Grand.exe
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\bin\Debug\Grand.pdb
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.csproj.AssemblyReference.cache
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.SuperForm.resources
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.Properties.Resources.resources
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.csproj.GenerateResource.cache
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.csproj.CoreCompileInputs.cache
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.exe
+D:\VisualRepos\HeresYourHomework-homework17\HeresYourHomework-homework17\Grand\obj\Debug\Grand.pdb
