@@ -1,0 +1,10 @@
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\bin\Debug\BusinessCalc.exe.config
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\bin\Debug\BusinessCalc.exe
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\bin\Debug\BusinessCalc.pdb
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.csprojAssemblyReference.cache
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.BusForm.resources
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.Properties.Resources.resources
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.csproj.GenerateResource.cache
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.csproj.CoreCompileInputs.cache
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.exe
+C:\Users\stud\213_Alekseev\businessthing\BusinessCalc\BusinessCalc\obj\Debug\BusinessCalc.pdb
