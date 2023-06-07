@@ -1,0 +1,11 @@
+E:\VisualRepos\doom\Timer\Times\bin\Debug\Times.exe.config
+E:\VisualRepos\doom\Timer\Times\bin\Debug\Times.exe
+E:\VisualRepos\doom\Timer\Times\bin\Debug\Times.pdb
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.csproj.AssemblyReference.cache
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.csproj.SuggestedBindingRedirects.cache
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.Form1.resources
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.Properties.Resources.resources
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.csproj.GenerateResource.cache
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.csproj.CoreCompileInputs.cache
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.exe
+E:\VisualRepos\doom\Timer\Times\obj\Debug\Times.pdb
