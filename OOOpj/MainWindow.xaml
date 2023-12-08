@@ -1,0 +1,41 @@
+﻿<Window x:Class="OOOpj.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOOpj"
+        mc:Ignorable="d"
+        Title="ООО Полином Жигалкина" Height="800" Width="600" MinHeight="800" MinWidth="600" MaxHeight="800" MaxWidth="600" Background="#ffe6a8">
+    <Grid>
+        <Grid>
+            <TextBlock Text="PlaceHolder" Grid.Column="0"/>
+            <TextBlock x:Name="gm" Text="Главное меню" Style="{StaticResource Textovik}" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1"/>
+            <Button x:Name="Exit" Click="Exit_Click" Style="{StaticResource Exit}" Grid.Column="2" Margin="25,0,25,0"/>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Grid.Row="1">
+            <Button x:Name="MyCab" Click="MyCab_Click" Content="Личный кабинет" Margin="0,160,0,0"  Style="{StaticResource Buttonchik}"/>
+            <Button x:Name="Tar" Click="Tar_Click" Content="Тарифы" Margin="0,60,0,0"  Style="{StaticResource Buttonchik}"/>
+            <Button x:Name="Help" Click="Help_Click"  Content="Помощь" Margin="0,60,0,0" Style="{StaticResource Buttonchik}"/>
+            <Button x:Name="About" Click="About_Click" Content="О нас" Margin="0,60,0,0" Style="{StaticResource Buttonchik}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="2">
+            <TextBlock Text="Helllo world" Margin="0,0,180,0" Style="{StaticResource Textovik}"/>
+            <TextBlock Text="My email is: balbla@mail.ru" Style="{StaticResource Textovik}"/>
+        </StackPanel>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        
+    </Grid>
+    
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\stud\Desktop\prikols\OOOpj\bin\Debug\OOOpj.exe.config
+C:\Users\stud\Desktop\prikols\OOOpj\bin\Debug\OOOpj.exe
+C:\Users\stud\Desktop\prikols\OOOpj\bin\Debug\OOOpj.pdb
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\MainWindow.g.cs
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\App.g.cs
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj_MarkupCompile.cache
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj_MarkupCompile.lref
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\App.baml
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\MainWindow.baml
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.g.resources
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.Properties.Resources.resources
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.exe
+C:\Users\stud\Desktop\prikols\OOOpj\obj\Debug\OOOpj.pdb
